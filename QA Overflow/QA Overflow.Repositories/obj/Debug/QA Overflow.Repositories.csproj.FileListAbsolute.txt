@@ -1,0 +1,15 @@
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\QA Overflow.Repositories.dll.config
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\QA Overflow.Repositories.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\QA Overflow.Repositories.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\EntityFramework.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\QA Overflow.DomainModels.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\QA Overflow.DomainModels.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\QA Overflow.DomainModels.dll.config
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\EntityFramework.xml
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\obj\Debug\QA Overflow.Repositories.csprojAssemblyReference.cache
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\obj\Debug\QA Overflow.Repositories.csproj.CoreCompileInputs.cache
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\obj\Debug\QA Overflow.Repositories.csproj.CopyComplete
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\obj\Debug\QA Overflow.Repositories.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.Repositories\obj\Debug\QA Overflow.Repositories.pdb

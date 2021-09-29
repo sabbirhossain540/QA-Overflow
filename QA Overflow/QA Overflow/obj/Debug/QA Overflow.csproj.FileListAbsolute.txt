@@ -75,3 +75,10 @@ F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\obj\Debug\QA Overflow.cs
 F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\obj\Debug\QA Overflow.csproj.CopyComplete
 F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\obj\Debug\QA Overflow.dll
 F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\obj\Debug\QA Overflow.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\EntityFramework.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\EntityFramework.SqlServer.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\QA Overflow.DomainModels.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\QA Overflow.DomainModels.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\QA Overflow.DomainModels.dll.config
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\EntityFramework.xml
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\QA Overflow.ServiceLayer.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\QA Overflow.ServiceLayer.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\QA Overflow.DomainModels.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\EntityFramework.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\QA Overflow.DomainModels.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\QA Overflow.DomainModels.dll.config
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\bin\Debug\EntityFramework.xml
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\obj\Debug\QA Overflow.ServiceLayer.csprojAssemblyReference.cache
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\obj\Debug\QA Overflow.ServiceLayer.csproj.CoreCompileInputs.cache
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\obj\Debug\QA Overflow.ServiceLayer.csproj.CopyComplete
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\obj\Debug\QA Overflow.ServiceLayer.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ServiceLayer\obj\Debug\QA Overflow.ServiceLayer.pdb
