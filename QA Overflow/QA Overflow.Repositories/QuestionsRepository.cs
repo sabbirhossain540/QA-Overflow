@@ -20,7 +20,7 @@ namespace QA_Overflow.Repositories
 
     }
 
-    class QuestionsRepository:IQuestionRepository
+    public class QuestionsRepository:IQuestionRepository
     {
         QAOverflowDatabaseDbContext db;
 
