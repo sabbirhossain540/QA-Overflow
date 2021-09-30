@@ -36,6 +36,7 @@ namespace QA_Overflow.Repositories
             db.SaveChanges();
         }
 
+
         public void UpdateUserDetails(User u)
         {
             User us = db.Users.Where(temp => temp.UserID == u.UserID).FirstOrDefault();
