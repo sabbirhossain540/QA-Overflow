@@ -1,0 +1,6 @@
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ViewModels\bin\Debug\QA Overflow.ViewModels.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ViewModels\bin\Debug\QA Overflow.ViewModels.pdb
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ViewModels\obj\Debug\QA Overflow.ViewModels.csprojAssemblyReference.cache
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ViewModels\obj\Debug\QA Overflow.ViewModels.csproj.CoreCompileInputs.cache
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ViewModels\obj\Debug\QA Overflow.ViewModels.dll
+F:\Learning Project\QA-Overflow\QA Overflow\QA Overflow.ViewModels\obj\Debug\QA Overflow.ViewModels.pdb
